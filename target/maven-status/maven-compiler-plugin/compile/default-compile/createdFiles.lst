@@ -1,3 +1,4 @@
 com\hootsuite\transaction\impl\TransactionBoImpl.class
+com\hootsuite\model\Shop.class
 com\hootsuite\rest\GraphDBService.class
 com\hootsuite\transaction\TransactionBo.class
