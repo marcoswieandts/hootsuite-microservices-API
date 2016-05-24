@@ -1,8 +1,11 @@
 package com.hootsuite.model;
 
 public class Shop {
+
 	String name;
+
 	String staffName[];
+	
 	public String getName() {
 		return name;
 	}
